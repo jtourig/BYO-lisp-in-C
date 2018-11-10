@@ -1,0 +1,11 @@
+# some notes from ch2
+
+basic debugging with lots of print output
+
+programs which compile without errors / warnings are harder to debug
+
+more advanced debugging with tool `gdb` [http://web.archive.org/web/20140910051410/http://www.dirac.org/linux/gdb/]
+- powerful but tough to use
+- OSX / macOS come with `lldb` instead, similar
+
+linux and mac can also use `valgrind` [http://www.cprogramming.com/debugging/valgrind.html]
